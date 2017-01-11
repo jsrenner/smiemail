@@ -1,0 +1,78 @@
+{
+  "settings": {
+    "name": "EMAIL / MISC",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#00a885",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 5,
+    "versionPublish": "3.10.5",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br>Welcome to SMI Plan<br><span style=\"font-weight: normal;\">&nbsp;Powered by Money Guide Pro</span>",
+          "text": "<p>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOGIN</a>",
+          "_customHTML": "<section class=\"mbr-section article\" style=\"background-color: rgb(242, 242, 242); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              <img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-black.png\" style=\"width: 100px;\">  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1\"><br>Welcome to SMI Plan<br><span style=\"font-weight: normal;\">&nbsp;Powered by Money Guide Pro</span></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"2\"><p>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p><p><br></p></div>\n                <div><a class=\"btn mbr-editable-button btn-success\" href=\"https://mobirise.com\" code-editable-id=\"3\">CLICK HERE TO GET STARTED</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #000;\n}\n.mbr-section-title SPAN {\n\tfont-size: 19px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box3-0"
+        }
+      ]
+    }
+  }
+}
